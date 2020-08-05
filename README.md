@@ -1,7 +1,7 @@
 # CODILITY-and-coding-challanges
 
 
-These are some of my implemntations to some of coding challanges from coldility, hashcode and others 
+These are some of my implementations to some of coding challenges from coldility, hashcode and others
 
 # Golden winner solutions 
 
